@@ -1,5 +1,5 @@
 PROJECT_NAME = "Git Practice Lab"
-GREETING = "Hello, Git learner!"
+GREETING = "Hello from the feature branch"
 PROJECT_STATUS = "starter"
 
 def show_tasks():
