@@ -8,3 +8,5 @@ Ideas for the task tracker:
 - Add a command to clear completed tasks.
 
 Use this file to practise editing, staging, diffs, commits, and merge conflicts.
+
+My first Git modification 
