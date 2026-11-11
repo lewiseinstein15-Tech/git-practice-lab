@@ -1,6 +1,6 @@
 PROJECT_NAME = "Git Practice Lab"
 GREETING = "Hello from the feature branch"
-PROJECT_STATUS = "starter"
+PROJECT_STATUS = "feature-ready"
 
 def show_tasks():
     tasks = [
